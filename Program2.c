@@ -79,3 +79,10 @@ int main(){
 
     return 0;
 }
+
+
+//Enter the valid IP address in dotted decimal format: 192.168.13.6
+//
+//The given IPv4 address (192.168.13.6) belongs to class C
+//Network address is : 192.0.0.0
+//The host address is  : 0.168.13.6
